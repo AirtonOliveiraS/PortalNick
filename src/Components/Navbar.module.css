@@ -1,0 +1,18 @@
+.navbar {
+  background-color: #215A36;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.navbar img {
+  width: 200px;
+  height: 100px;
+}
+
+.navbar h2{
+  color: white;
+  justify-content: center;
+  align-items: center
+}
